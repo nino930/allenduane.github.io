@@ -1,19 +1,19 @@
 # Site settings
 title: Simon Duan
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: 段士明的博客 | Simon Duan
 header-img: img/home-bg.jpg
 email: monster_duane@126.com
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "http://simonduan.site"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-facebook_username:  huxpro
+weibo_username:     santmonster
+zhihu_username:     santmonster
+#github_username:    huxpro
+#facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
 
