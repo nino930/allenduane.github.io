@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2015.05.19日 失眠"
-subtitle:   "恰有小感。"
+subtitle:   "偶有小感。"
 date:       2015-05-19
 author:     "Simon Duan"
 header-img: "img/post-bg.jpg"
