@@ -4,7 +4,7 @@ title:      "《从你的全世界路过》读书笔记"
 subtitle:   ""
 date:       2016-08-03
 author:     "Simon Duan"
-header-img: "img/passage/20160803/congluguo-post-bg.jpg"
+header-img: "img/passage/20160803/congluguo-post-bg.JPG"
 tags:
     - 读书笔记
 ---
