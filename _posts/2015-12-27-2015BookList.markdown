@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "2015年书单"
-subtitle:   "偶有小感。"
+subtitle:   "书单总结"
 date:       2015-12-27
 author:     "Simon Duan"
-header-img: "img/passage/20151227/post-bg.jpg"
+header-img: "img/passage/20151227/post_bg.jpg"
 tags:
     - 日常琐事
 ---
