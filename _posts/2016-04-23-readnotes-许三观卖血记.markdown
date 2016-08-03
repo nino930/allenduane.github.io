@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "《许三观卖血记》读书笔记"
