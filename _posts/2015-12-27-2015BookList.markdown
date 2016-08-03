@@ -4,7 +4,7 @@ title:      "2015年书单"
 subtitle:   "书单总结"
 date:       2015-12-27
 author:     "Simon Duan"
-header-img: "img/passage/20151227/post_bg.jpg"
+header-img: ""
 tags:
     - 日常琐事
 ---
