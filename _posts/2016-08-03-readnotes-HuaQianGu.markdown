@@ -4,7 +4,7 @@ title:      "《花千骨》读书笔记"
 subtitle:   "世间人只会谤她、伤她、欺骗她，原来这个妖神，竟是阴差阳错步步被逼出来的。。。"
 date:       2016-08-03
 author:     "Simon Duan"
-header-img: "img/passage/20160803/huaqiangu-post-bg.JPG"
+header-img: "img/passage/20160803/huaqiangu-post-bg.jpg"
 tags:
     - 读书笔记
 ---
