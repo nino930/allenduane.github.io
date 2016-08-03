@@ -4,11 +4,11 @@ title:      "《自控力》读书笔记"
 subtitle:   ""
 date:       2016-08-03
 author:     "Simon Duan"
-header-img: "img/passage/20160803/zikongli-post-bg.jpg"
+header-img: ""
 tags:
     - 读书笔记
 ---
-#### 《自控力》     凯利•麦格尼格尔
+<b> 《自控力》     凯利•麦格尼格尔
 
 >2015-08-21 08:04:28
 
