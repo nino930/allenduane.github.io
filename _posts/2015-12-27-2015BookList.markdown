@@ -6,7 +6,8 @@ date:       2015-12-27
 author:     "Simon Duan"
 header-img: ""
 tags:
-    - 日常琐事
+    - 读书笔记
+    -书单
 ---
 
 1. 《谁的青春不迷茫》刘同    
