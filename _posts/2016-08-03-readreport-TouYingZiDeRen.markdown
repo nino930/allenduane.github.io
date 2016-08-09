@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《偷影子的任》读后感"
+title:      "《偷影子的人》读后感"
 subtitle:   ""
 date:       2016-08-03
 author:     "Simon Duan"
