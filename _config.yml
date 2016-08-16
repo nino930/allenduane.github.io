@@ -2,20 +2,21 @@
 title: XUe_BEAr
 SEOTitle: NINO
 header-img: img/home-bg.jpg
-email: monster_duane@126.com
-url: "http://simonduan.site"              # your host, for absolute URL
+email: nino_orange@163.com
+url: "https://ninobear.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     santmonster
+weibo_username:     老夫的少女心啦
 #zhihu_username:     santmonster
-douban_username:    allenduane
+#douban_username:    allenduane
 #github_username:    huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
+instagram_username:  nino_orange
 
 
 
@@ -67,7 +68,7 @@ ga_domain: simonduan.site
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "做一个认真的人,读书、跑步，努力学习、认真工作，。"
+sidebar-about-description: "很酷。"
 sidebar-avatar: /img/avatar-sd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
